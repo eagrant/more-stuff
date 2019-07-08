@@ -1,0 +1,7 @@
+]0;~/Documents/R Studio Stuff/more stuff[?1034hEvans-MBP:more stuff evangrant$ [KEvans-MBP:more stuff evangrant$ cd[K[K~dir/Documents/R Studio Stuff/more stuff
+bash: ~dir/Documents/R: No such file or directory
+]0;~/Documents/R Studio Stuff/more stuffEvans-MBP:more stuff evangrant$ git init
+Initialized empty Git repository in /Users/evangrant/Documents/R Studio Stuff/more stuff/.git/
+]0;~/Documents/R Studio Stuff/more stuffEvans-MBP:more stuff evangrant$ gid add .
+bash: gid: command not found
+]0;~/Documents/R Studio Stuff/more stuffEvans-MBP:more stuff evangrant$ git add.[K .
